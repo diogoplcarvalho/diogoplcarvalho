@@ -1,4 +1,4 @@
-<h1 align="center">Hi There👋! I'm Diogo Carvalho</h1>
+<h1 align="center">Hi There<img src="https://cdn3.emoji.gg/emojis/wavegif_1860.gif" height="40" alt="Hand Waving">! I'm Diogo Carvalho :)</h1>
 
 ###
 
